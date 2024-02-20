@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @luoTianli
+-  I’m interested in protein degradation project like ADC and PROTAC etc.
+-  I’m currently learning DeepPROTACs which is a deep learning-based targeted degradation predictor for PROTACs.
+-  I’m looking to collaborate on new disease or aging related site for designing new PROTAC.
